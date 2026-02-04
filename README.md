@@ -1,4 +1,4 @@
-# tezos mcp server
+# Tezos MCP ꜩ 
 
 model context protocol server for tezos blockchain. lets claude interact with tezos natively through standard mcp tools.
 
